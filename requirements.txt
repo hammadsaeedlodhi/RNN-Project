@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+mysql-connector-python
+gunicorn==23.0.0
+flask
+joblib
+tensorflow
+simple-salesforce
+python-dotenv
+langchain==0.3.7
+langchain-groq
+langchain-community
