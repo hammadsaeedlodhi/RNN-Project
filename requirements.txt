@@ -1,14 +1,12 @@
 streamlit
 pandas
 numpy
-scikit-learn
-flask
-joblib
-simple-salesforce
 python-dotenv
 tensorflow
 langchain==0.3.7 
 langchain-core 
 langchain-community 
-langchain-groq   
+langchain-groq 
+dotenv
+
 
